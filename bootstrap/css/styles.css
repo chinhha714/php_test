@@ -1,0 +1,101 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizelegibility;
+    color: #6c6f73;
+}
+
+h1 h3 {
+    color: #ffffff;
+}
+
+h6 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 1.5rem;
+    letter-spacing: 0.1rem;
+}
+
+img {
+    max-width: 100%;
+}
+
+#about {
+    background: url('img/house2.jpg') center center no-repeat;
+    background-size: cover;
+}
+
+.about-text {
+    background: rgba(0,0,0,0.8);
+    color: white;
+    padding: 1.875rem;
+}
+
+#stage {
+    background: url('img/house1.jpg') center center no-repeat;
+    background-size: cover;
+    color: white;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+#stage-caption {
+    font-size: 1.4rem;
+    font-weight: 200;
+    max-width: 60rem;
+    margin: 0 auto;
+    text-align: center;
+}
+
+#stage-caption h1 {
+    color: white;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.feature-content {
+    padding: 8rem 0;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+}
+
+.feature-content img {
+    margin-bottom: -8rem;
+}
+
+#main-footer {
+    background: #262F36;
+    color: white;
+    padding: 6rem 0;
+    font-size: 1.5rem;
+}
+
+#main-footer h6 {
+    color: #718FA9;
+}
+
+#main-footer a {
+    color: #6C6F73;
+}
+
+.section-content {
+    padding: 5rem 0;
+}
+
+
+
+
+
+
+
+
+
+
+
